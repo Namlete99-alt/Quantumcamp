@@ -1,0 +1,122 @@
+body{
+    background-color:rgb(127, 178, 255);
+}
+
+/*Head*/
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width:1500px;
+}
+
+.banner h1{
+    color:rgb(255, 185, 127);
+    font-size: 50pt;
+    padding:15px;
+}
+
+/*nav*/
+.nav{
+    display: flex;
+    overflow:hidden;
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 10px;
+    width:1500px;
+}
+
+.nav li{
+    display:inline-flex; 
+    padding: 15px;
+}
+
+.nav li a:hover{
+    color:rgb(0, 140, 255);
+    background-color: aliceblue;
+}
+/*link*/
+a {
+      text-decoration: none;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 25pt;
+    }
+a:link{
+    color:black;
+}
+
+/*QcampVN*/
+.index{
+    display: flex;
+    padding:10px;
+    margin: 0 auto;
+    width:1500px;
+    height:100vh;
+    background-color: aliceblue;
+}
+
+/*home*/
+.home{
+    display: flex;
+    padding:10px;
+    margin: 0 auto;
+    width:1500px;
+    height:100vh;
+    background-color: aliceblue;
+}
+
+/*Qcamp*/
+.Qcamp{
+    display: flex;
+    padding:10px;
+    margin: 0 auto;
+    width:1500px;
+    height:100vh;
+    background-color: aliceblue;
+}
+
+.blog{
+    display: flex;
+    padding:10px;
+    margin: 0 auto;
+    width:1500px;
+    height:100vh;
+    background-color: aliceblue;
+}
+
+/*about*/
+.about{
+    display: flex;
+    padding:10px;
+    margin: 0 auto;
+    width:1500px;
+    height:100vh;
+    background-color: aliceblue;
+}
+
+/*footer*/
+.footer{
+    display: flex;
+    overflow:hidden;
+    background-color:aquamarine;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 10px;
+    width:1500px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.footer li{
+    display:inline-flex; 
+    padding: 15px;
+}
+
+.footer li a:hover{
+    color: rgb(225, 0, 255);
+}
