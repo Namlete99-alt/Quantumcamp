@@ -52,3 +52,12 @@ Các nguyên lý của cơ học cổ điển áp dụng cho thế giới vĩ m�
 ***[Read more -->](https://viblo.asia/p/quantum-machine-learning-khi-vat-ly-luong-tu-va-machine-learning-gap-nhau-Ljy5Vyoblra)***
 
 *** 
+
+### Defining the quantum workforce landscape: a review of global quantum education initiatives
+***Post on: 21/04/2022*** by Maninder Kaur, Araceli Venegas-Gomez
+
+Những tiến bộ nhanh chóng trong công nghệ lượng tử đã làm trầm trọng thêm tình trạng thiếu hụt lực lượng lao động lượng tử đa dạng, toàn diện và bền vững. Chính phủ các nước và ngành công nghiệp đang xây dựng các chiến lược giáo dục, đào tạo và phát triển lực lượng lao động nhằm đẩy nhanh quá trình thương mại hóa công nghệ lượng tử. Trong bài báo này, chúng tôi báo cáo tình hình hiện tại của lực lượng lao động lượng tử cũng như một số lộ trình học tập để nuôi dưỡng nguồn nhân tài giữa học viện và ngành công nghiệp. Chúng tôi cung cấp một hướng dẫn toàn diện về các sáng kiến ​​giáo dục khác nhau có sẵn trên toàn thế giới, chẳng hạn như các khóa học trực tuyến, hội nghị, hội thảo, trò chơi và mạng lưới tập trung vào cộng đồng, giúp tạo điều kiện thuận lợi cho việc đào tạo lượng tử và nâng cao kỹ năng cho nhân tài cần thiết để phát triển một tương lai lượng tử tốt đẹp hơn.
+
+***[Read more -->](https://arxiv.org/abs/2202.08940?fbclid=IwY2xjawOiOGJleHRuA2FlbQIxMABicmlkETFTWUFWSGNnS0VjTTJHTzdrc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrupfGlAvo8lD-0RvhyWFbWlr9WCm-fZDDzxrsC9OdmX7_i3-ajmQOYaudbz_aem_FAsjaHZZDXZLWj1z_J6tlQ)***
+
+*** 
